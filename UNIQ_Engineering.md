@@ -6,9 +6,9 @@ Where: [[UNIQ_Engineering]]
 
 # UNIQ
 \<Insert summary\>
+[[Oxford_University_info]]
 
-
-### Subject 1
+### Monday Morning
 Subject 1 summary
 
 
@@ -16,7 +16,28 @@ Subject 1 summary
 
 
 
-### Subject 2
+### Monday Afternoon
+Subject 2 summary
+
+
+##### References
+
+
+### Tuesday Morning
+Subject 2 summary
+
+
+##### References
+
+
+### Tuesday Afternoon
+Subject 2 summary
+
+
+##### References
+
+
+### Wednesday Morning
 Subject 2 summary
 
 
